@@ -20,7 +20,7 @@ My journey in IT support has led me to develop a passion for cybersecurity, and 
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
-| Investigation and Incident Report Writing     | SOC Automation Lab|
+| Investigation and Incident Report Writing     | <a href="https://github.com/Olaz-dev/Investigation--Report"> SOC Automation Lab </a>|
 | Scripting and Automation for Threat Mitigation |<a href="https://github.com/Olaz-dev/SOAR-EDR/tree/main"> SOC Automation Lab</a>|
 
 ## Tools
